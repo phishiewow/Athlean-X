@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/page"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="2dp" />
+
+    <com.viewpagerindicator.CirclePageIndicator
+        android:id="@+id/indicatr"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="684dp"
+        android:padding="10dip"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/left_nv"
+        android:layout_width="86dp"
+        android:layout_height="83dp"
+        android:layout_gravity="center_vertical|left"
+        android:layout_marginTop="100dp"
+        android:layout_marginEnd="332dp"
+        android:background="@drawable/slide_nav_left"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/right_nv"
+        android:layout_width="72dp"
+        android:layout_height="74dp"
+        android:layout_gravity="center_vertical|right"
+        android:layout_marginStart="344dp"
+        android:layout_marginTop="108dp"
+        android:background="@drawable/slide_nav_right"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</android.support.constraint.ConstraintLayout>

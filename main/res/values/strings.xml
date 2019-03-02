@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Athlean X</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="the_training">THE TRAINING</string>
+    <string name="train_like_an_athlete">TRAIN LIKE AN ATHLETE</string>
+    <string name="each_program_is_designed_to_get_you_looking_moving_and_feeling_like_an_athlete">EACH PROGRAM IS DESIGNED TO GET YOU LOOKING. MOVING AND FEELING LIKE AN ATHLETE!</string>
+    <string name="CHOOSE_a_program">LET US HELP YOU CHOOSE A PROGRAM</string>
+    <string name="choose_my_program">CHOOSE MY PROGRAM</string>
+    <string name="if_you_want_to_look_like_an_athlete_you_have_to_train_like_an_athlete_this_step_by_step_90_day_training_and_nutrition_plan_combines_strength_and_conditioning_to_help_you_build_a_ripped_lean_athletic_body">If you want to look like an athlete, you have to train like an athlete. This step by step 90 day training and nutrition plan, combines strength and conditioning to help you build a ripped, lean athletic body.✝✝</string>
+    <string name="LEARN_MORE">LEARN MORE</string>
+    <string name="max_size">If you’re looking for fast muscle gains without unnecessary bulking and cutting, this 90 day training and nutrition plan delivers reliable results with its proven “size building” science.✝✝</string>
+    <string name="if_you_want_to_get_ripped_without_sacrificing_muscle_this_90_day_training_and_nutrition_plan_shows_you_how_it_s_done_scalable_from_rank_beginner_to_experienced_athlete_max_shred_delivers_fat_loss_for_all">If you want to get ripped without sacrificing muscle, this 90 day training and nutrition plan shows you how it’s done. Scalable from rank beginner to experienced athlete, Max Shred delivers fat loss for all. ✝✝</string>
+    <string name="view_all_programs">VIEW ALL PROGRAMS >> </string>
+    <string name="putting_the_science_back_in_supplementation">PUTTING THE SCIENCE BACK IN SUPPLEMENTATION</string>
+    <string name="stop_putting_your_faith_in_proprietary_blends_and_inflated_label_claims_our_clinically_dosed_formulas_are_trusted_by_the_pros">STOP PUTTING YOUR FAITH IN PROPRIETARY BLENDS AND INFLATED LABEL CLAIMS. OUR CLINICALLY DOSED FORMULAS ARE TRUSTED BY THE PROS.</string>
+    <string name="when_i_m_hired_by_an_athlete_or_actor_to_add_up_to_5_to_10_lbs_of_performance_ready_muscle_or_strip_them_of_excess_fat_i_have_hundreds_maybe_thousands_of_protocols_i_can_use_if_i_m_given_the_challenge_of_accomplishing_both_at_the_same_time_without_compromise_this_is_the_exact_program_i_reach_for">When I’m hired by an athlete or actor to add up to 5 to 10 lbs of “performance ready” muscle OR strip them of excess fat, I have hundreds, maybe thousands, of protocols I can use. If I’m given the challenge of accomplishing both at the same time without compromise – This is the exact program I reach for.</string>
+    <string name="the_athlean_look">THE ATHLEAN LOOK</string>
+    <string name="year_round_gains_with_no_bulking_or_cutting">YEAR ROUND GAINS WITH NO BULKING OR CUTTING</string>
+    <string name="less_effective_training_methods_will_have_you_thinking_the_only_way_to_achieve_this_is_with_periods_of_bulking_and_cutting_that_is_simply_not_true_with_athlean_x_i_ll_help_you_to_get_this_look_and_keep_it">Less effective training methods will have you thinking the only way to achieve this is with periods of “bulking” and “cutting”. That is simply not true. With ATHLEAN-X, I’ll help you to get this look and keep it…</string>
+    <string name="the_athlean_look_is_muscular_strong_and_ripped_it_is_the_ideal_balance_of_muscle_to_body_fat_that_is_optimized_for_performance_without_sacrificing_aesthetics_the_look_that_most_men_desire_and_many_women_are_attracted_to">The athlean look is muscular, strong, and ripped. It is the ideal balance of muscle to body fat that is optimized for performance without sacrificing aesthetics…the look that most men desire and many women are attracted to.</string>
+    <string name="proven_in_the_gym">PROVEN IN THE GYM!</string>
+    <string name="built_on_science">BUILT ON SCIENCE</string>
+    <string name="sd">The ATHLEAN body is created by taking what works in the lab and testing it in the ultimate proving ground…the gym. If the research stands up there, THEN it will make it to you.</string>
+    <string name="DSA">You can be 100% sure my methods work. Not a single rep is wasted. That’s why I’m confident in the outcomes you’ll achieve.</string>
+    <string name="no_b_s">NO B.S.</string>
+    <string name="_100">100%</string>
+    <string name="D">IN THE TRAINING ROOM</string>
+    <string name="backed_by_science">BACKED BY SCIENCE</string>
+    <string name="training_from_a_real_pro_athlete_coach">TRAINING FROM A REAL PRO ATHLETE COACH</string>
+    <string name="take_it_to_the_next_level">TAKE IT TO THE NEXT LEVEL...</string>
+    <string name="the_3_pillars_of_athlean">THE 3 PILLARS OF ATHLEAN</string>
+    <string name="xdfs">Pro athletes get exceptional results from blending weight training, body weight training, and conditioning but most importantly… by avoiding the mistakes that the average gym goer makes on an almost daily basis.</string>
+    <string name="integrate_and_isolate">INTEGRATE AND ISOLATE</string>
+    <string name="PERFOMANCE">It’s not all about “big lifts”. Knowing when and how to incorporate isolation techniques to overload a weak or non-responding muscle is key to developing a balanced physique. Bodyweight and unique weighted movements shine here to chisel a body built from muscular command.</string>
+    <string name="burn_fat_not_muscle">BURN FAT... NOT MUSCLE</string>
+    <string name="F">The biggest “gains-killer” is poorly programmed conditioning. Conditioning should increase work capacity, turn on your body’s fat burning furnace and assist in recovery without sacrificing lean muscle. ATHLEAN-X “Burst Training” ignites your fat loss efforts while building the stamina the world’s most explosive athletes are known for.</string>
+    <string name="it_s_not_enought_to_train_like_an_athlete">IT\'S NOT ENOUGHT TO TRAIN LIKE AN ATHLETE...</string>
+    <string name="i_want_you_feeling_like_one_too">I WANT YOU FEELING LIKE ONE TOO!</string>
+    <string name="proven">PROVEN</string>
+    <string name="I">FEEL THE POWER</string>
+    <string name="i">Imagine having the pure natural confidence of an athlete. Knowing that no matter what day, week or month of the year it is, you’ll be able to say that you look your best, feel your best and can perform with the best of them! Being powerful starts with feeling empowered. This is exactly what ATHLEAN-X delivers.</string>
+    <string name="d">365</string>
+    <string name="zero">ZERO</string>
+    <string name="Z">ONE</string>
+    <string name="program">PROGRAM</string>
+    <string name="days_a_year">DAYS A YEAR</string>
+    <string name="confidence">CONFIDENCE</string>
+    <string name="excuses">EXCUSES</string>
+    <string name="use_it_or_lose_it_literally">USE IT OR LOSE IT... LITERALLY</string>
+    <string name="a">The minute you stop doing what you were doing “when you were younger” is the minute you stop being and feeling young! With ATHLEAN-X, I’ll help you to get “back in the game” with scaled exercises that provide an on-ramp for those just getting started again while giving you a game plan for scaling up as you recapture your youth during the program.</string>
+    <string name="what_you_get">WHAT YOU GET!</string>
+    <string name="slideshow_on">Slideshow On</string>
+    <string name="dots_indicator">DotsIndicator</string>
+    <string name="spring_dots_indicator">SpringDotsIndicator</string>
+    <string name="worm_dots_indicator">WormDotsIndicator</string>
+
+    <integer-array name="img_id_arr">
+        <item>@drawable/flipper1</item>
+        <item>@drawable/flipper2</item>
+        <item>@drawable/flipper3</item>
+        <item>@drawable/flipper4</item>
+        <item>@drawable/flipper5</item>
+
+
+    </integer-array>
+</resources>

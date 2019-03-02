@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/content"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#000000">
+
+    <ImageView
+        android:id="@+id/imageView17"
+        android:layout_width="411dp"
+        android:layout_height="210dp"
+        android:layout_marginTop="60dp"
+        android:src="@drawable/flipper1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="206dp"
+        android:layout_marginTop="288dp"
+        android:padding="16dp"
+        android:text="In month 1fdgfddggdgdgffddfpower of one of the most effective muscle building splits on the planet only with a twist from the mind of Coach Cavaliere!  The result? A super effective, ultra athletic and 100% ATHLEAN phase that will kickstart your muscle building and fat burning goals. "
+        android:textAlignment="center"
+        android:textColor="#ffffff"
+        android:textSize="19sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</android.support.constraint.ConstraintLayout>

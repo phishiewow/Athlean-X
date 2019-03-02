@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/content"
+    android:layout_width="305dp"
+    android:layout_height="541dp"
+    android:orientation="vertical"
+    android:background="#bbbbbb">
+
+    <View
+        android:id="@+id/view6"
+        android:layout_width="305dp"
+        android:layout_height="4dp"
+        android:background="#c40000"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView19"
+        android:layout_width="match_parent"
+        android:layout_height="170dp"
+        android:src="@drawable/flipper1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/view6" />
+
+    <View
+        android:id="@+id/viewhgfb"
+        android:layout_width="0.5dp"
+        android:layout_height="180dp"
+        android:layout_marginTop="4dp"
+        android:layout_marginEnd="305dp"
+        android:background="#000000"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <View
+        android:id="@+id/viewhgffdsb"
+        android:layout_width="0.7dp"
+        android:layout_height="180dp"
+        android:layout_marginStart="304.953dp"
+        android:layout_marginTop="4dp"
+        android:background="#000000"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <TextView
+        android:id="@+id/view5gtf"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:layout_marginTop="174dp"
+        android:background="#c40000"
+        android:paddingTop="13dp"
+        android:text="PUSH PULL PERFOMANCE"
+        android:textAlignment="center"
+        android:textColor="#ffffff"
+        android:textSize="19sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView19"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView32"
+        android:layout_width="290dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="29dp"
+        android:layout_marginEnd="8dp"
+        android:paddingTop="11dp"
+        android:text="REPS NOT REPETITION!"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="23sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/view5gtf" />
+
+    <TextView
+        android:layout_width="290dp"
+        android:layout_height="171dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="12dp"
+        android:text="In month 1 we tap into the power of one of the most effective muscle building splits on the planet only with a twist from the mind of Coach Cavaliere!  The result? A super effective, ultra athletic and 100% ATHLEAN phase that will kickstart your muscle building and fat burning goals. "
+        android:textAlignment="center"
+        android:textColor="#1D1C1C"
+        android:textSize="15dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView32" />
+
+
+
+
+
+
+
+</android.support.constraint.ConstraintLayout>
+
